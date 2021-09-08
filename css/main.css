@@ -2014,7 +2014,7 @@ textarea.form-control {
   .progress-container .progress-badge {
     color: #888;
     font-size: 0.8571em;
-    text-transform: uppercase; }
+    /*text-transform: uppercase;*/ }
   .progress-container .progress {
     height: 1px;
     border-radius: 0;
@@ -5266,16 +5266,25 @@ Created using IcoMoon - icomoon.io
   color: #3b5998; }
 
 .cc-twitter:hover i {
-  color: #1da1f2; }
+  color: #5DA9DD; }
 
 .cc-google-plus:hover i {
   color: #dd4b39; }
 
 .cc-instagram:hover i {
-  color: #e640c2; }
+  color: #E5485A; }
 
 .cc-skype:hover i {
-  color: #00aeff; }
+  color: #58A7E4; }
+
+.cc-linkedin:hover i {
+  color: #3967C2; }
+
+.cc-telegram:hover i {
+  color: #4F96C8; }
+
+.cc-github:hover i {
+  color: #000000; }
 
 /* Credit Style */
 a.credit {
