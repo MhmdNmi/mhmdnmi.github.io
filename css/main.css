@@ -2292,6 +2292,9 @@ p {
 .text-black {
   color: #444; }
 
+.text-grey {
+  color: #9A9A9A; }
+
 .blockquote {
   border-left: none;
   border: 1px solid #888;
