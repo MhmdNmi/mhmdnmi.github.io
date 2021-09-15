@@ -1255,12 +1255,13 @@
 
 .btn-primary {
   background-color: #800000;
+  font-weight: bold;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #ff0000;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -2560,7 +2561,8 @@ body {
     border: 1px solid transparent; }
   .navbar .navbar-brand {
     text-transform: uppercase;
-    font-size: 0.8571em;
+    font-weight: bold;
+    font-size: 1em;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     line-height: 1.625rem; }
@@ -5299,3 +5301,6 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+.nav-link {
+  font-weight: bold; }
