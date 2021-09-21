@@ -5256,6 +5256,11 @@ Created using IcoMoon - icomoon.io
 
 /* Contact Information Style */
 .cc-contact-information {
+  background-color: #520000;
+  /*height: 650px;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
   position: relative;
   overflow: hidden; }
@@ -5304,3 +5309,8 @@ a.credit {
 
 .nav-link {
   font-weight: bold; }
+
+.h7 {
+  font-size: 1.3em;
+  margin-bottom: 15px; }
+  
