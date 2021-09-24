@@ -1230,14 +1230,14 @@
         font-size: 0.6875rem; }
     .btn.btn-icon.btn-lg,
     .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
-      height: 3.3rem;
-      min-width: 3.3rem;
-      width: 3.3rem; }
+      height: 3rem;
+      min-width: 3rem;
+      width: 3rem; }
       .btn.btn-icon.btn-lg i.now-ui-icons,
       .btn.btn-icon.btn-lg i.fa,
       .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.now-ui-icons,
       .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.fa {
-        font-size: 1.5rem; }
+        font-size: 1.3rem; }
     .btn.btn-icon:not(.btn-footer) i.now-ui-icons,
     .btn.btn-icon:not(.btn-footer) i.fa,
     .navbar .navbar-nav > a.btn.btn-icon:not(.btn-footer) i.now-ui-icons,
