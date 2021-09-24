@@ -1230,9 +1230,9 @@
         font-size: 0.6875rem; }
     .btn.btn-icon.btn-lg,
     .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
-      height: 1.7rem;
-      min-width: 1.7rem;
-      width: 1.7rem; }
+      height: 3rem;
+      min-width: 3rem;
+      width: 3rem; }
       .btn.btn-icon.btn-lg i.now-ui-icons,
       .btn.btn-icon.btn-lg i.fa,
       .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.now-ui-icons,
