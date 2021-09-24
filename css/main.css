@@ -24,7 +24,7 @@
  * Copyright 2012-2013 Mattia Larentis
  * http://www.apache.org/licenses/LICENSE-2.0
  */
-.bootstrap-switch {
+ .bootstrap-switch {
   display: inline-block;
   direction: ltr;
   cursor: pointer;
@@ -1103,7 +1103,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #888;
+  background-color: #800000;
   color: #FFFFFF; }
   .btn:hover, .btn:focus, .btn:active, .btn.active, .btn:active:focus, .btn:active:hover, .btn.active:focus, .btn.active:hover,
   .show > .btn.dropdown-toggle,
@@ -1123,8 +1123,8 @@
   .navbar .navbar-nav > a.btn.dropdown-toggle:focus,
   .show >
   .navbar .navbar-nav > a.btn.dropdown-toggle:hover {
-    background-color: #979797;
-    color: #FFFFFF;
+    background-color: #cecece;
+    color: #800000;
     box-shadow: none; }
   .btn:hover,
   .navbar .navbar-nav > a.btn:hover {
@@ -1230,14 +1230,14 @@
         font-size: 0.6875rem; }
     .btn.btn-icon.btn-lg,
     .navbar .navbar-nav > a.btn.btn-icon.btn-lg {
-      height: 3.6rem;
-      min-width: 3.6rem;
-      width: 3.6rem; }
+      height: 3.3rem;
+      min-width: 3.3rem;
+      width: 3.3rem; }
       .btn.btn-icon.btn-lg i.now-ui-icons,
       .btn.btn-icon.btn-lg i.fa,
       .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.now-ui-icons,
       .navbar .navbar-nav > a.btn.btn-icon.btn-lg i.fa {
-        font-size: 1.325rem; }
+        font-size: 1.5rem; }
     .btn.btn-icon:not(.btn-footer) i.now-ui-icons,
     .btn.btn-icon:not(.btn-footer) i.fa,
     .navbar .navbar-nav > a.btn.btn-icon:not(.btn-footer) i.now-ui-icons,
@@ -2560,9 +2560,7 @@ body {
     border-radius: 50%;
     border: 1px solid transparent; }
   .navbar .navbar-brand {
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 1em;
+    font-size: 1.2em;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     line-height: 1.625rem; }
@@ -5283,6 +5281,9 @@ Created using IcoMoon - icomoon.io
 
 .cc-instagram:hover i {
   color: #E5485A; }
+
+.ccc-instagram:hover i {
+  color: #000000; }
 
 .cc-skype:hover i {
   color: #58A7E4; }
