@@ -1182,7 +1182,7 @@
       box-shadow: none; }
   .btn.btn-link,
   .navbar .navbar-nav > a.btn.btn-link {
-    color: #888; }
+    color: rgb(255, 255, 255); }
     .btn.btn-link:hover, .btn.btn-link:focus, .btn.btn-link:active,
     .navbar .navbar-nav > a.btn.btn-link:hover,
     .navbar .navbar-nav > a.btn.btn-link:focus,
@@ -1776,10 +1776,10 @@ fieldset[disabled]
   color: #18ce0f; }
 
 .input-group-addon {
-  background-color: #FFFFFF;
+  background-color: transparent; /* I changed it! */
   border: 1px solid #E3E3E3;
   border-radius: 30px;
-  color: #555555;
+  color: #ffffff;
   padding: -0.5rem 0 -0.5rem -0.3rem;
   transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out; }
   .has-success .input-group-addon,
@@ -1797,7 +1797,7 @@ fieldset[disabled]
     width: 17px; }
 
 .input-group-focus .input-group-addon {
-  background-color: #FFFFFF;
+  background-color: #222222;
   border-color: #800000; }
 
 .input-group-focus.form-group-no-border .input-group-addon {
@@ -2041,10 +2041,10 @@ textarea.form-control {
   .progress-container.progress-primary .progress {
     background: rgba(140, 55, 55, 0.4); }
   .progress-container.progress-primary .progress-bar {
-    background: #800000; }
+    background: #A00000; } /* I changed it! */
   .progress-container.progress-primary .progress-value,
   .progress-container.progress-primary .progress-badge {
-    color: #800000; }
+    color: #F00000; }
   .progress-container.progress-info .progress {
     background: rgba(44, 168, 255, 0.3); }
   .progress-container.progress-info .progress-bar {
@@ -5239,7 +5239,7 @@ Created using IcoMoon - icomoon.io
   background: #a5a3a3; }
 
 .cc-reference .carousel-indicators .active {
-  background-color: #800000; }
+  background-color: #E00000; }
 
 .cc-reference .carousel-inner {
   box-shadow: none; }
