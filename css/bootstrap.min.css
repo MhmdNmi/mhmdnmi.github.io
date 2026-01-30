@@ -660,6 +660,12 @@ pre code {
     }
 }
 
+@media (min-width:1400px) {
+    .container {
+        max-width: 1370px
+    }
+}
+
 .container-fluid {
     width: 100%;
     margin-right: auto;
